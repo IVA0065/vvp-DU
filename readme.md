@@ -1,0 +1,1 @@
+Toto je repozitář pro odevzdávání domácích úkolů do předmětu Vědecké Výpočty v Pythonu. Autor: Tobias Ivanek a IVA0065.
